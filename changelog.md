@@ -29,3 +29,7 @@ Earlier there were no changelog at all and we have introduced one now and we wil
 * Remove invalid css
 * Add compose message functionalities
 * Add fixed footer functionalities
+
+### 05/08/2016 apmon-dashboaird
+
+* New personal branch created
